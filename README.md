@@ -16,4 +16,6 @@ The problem was proposed by Rossmann  company at Kaggle plataform where the sale
 
 <h1>Featuring engineering</h1>
 
-Feature engineering is the process of to create and transform the most variables frow raw data to improve the performance of machine learning algorithms. When we are building a predict model we have to select the best features to use in the model for improve the predict performance. Sometimes, there is not the features needed in the raw data, then the feature engineering is the way to create and select them.
+<p>Feature engineering is the process of to create and transform the most variables frow raw data to improve the performance of machine learning algorithms. When we are building a predict model we have to select the best features to use in the model for improve the predict performance. Sometimes, there is not the features needed in the raw data, then the feature engineering is the way to create and select them.</p>
+
+<p>Predict models have outcomes variables and predictor variables and during the feature engineering process the most useful predictor variables are created and selected.</p>
