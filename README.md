@@ -7,7 +7,7 @@ This repository contains scripts of the competition at Kaggle about Rossmann Sto
 The problem was proposed by Rossmann  company at Kaggle plataform where the sales managers ordered a prediction about sales in the next six weeks based in historical datas of their stores.
 
 
-<h1>Business question</h1>]
+<h1>Business question</h1>
 
 <h3>How can we predict the revenue to the next six weeks for each Rossmann's store?</h3>
 <h3>What attributes are important to build a predict model?</h3>
