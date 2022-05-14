@@ -8,3 +8,5 @@ The problem was proposed by Rossmann  company at Kaggle plataform where the sale
 
 <h1>Business question</h1>
 <h3>How can we predict the revenue to the next six weeks for each Rossmann's store?</h3>
+<h3>What attributes are important to build a predict model?</h3>
+<h3>What the best model predict to use?</h3>
