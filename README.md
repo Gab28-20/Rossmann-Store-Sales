@@ -20,7 +20,7 @@ The problem was proposed by Rossmann  company at Kaggle plataform where the sale
 
 <p>Predict models have outcomes variables and predictor variables and during the feature engineering process the most useful predictor variables are created and selected.</p>
 
-<p>In Rossmann's problem was needed to create some features to improve the predict model on the next step. The features created were:</p>
+<p>In Rossmann's problem was needed to create some features. The features created were:</p>
 <ol>
   <li>Year</li>
   <li>Month</li>
@@ -32,3 +32,7 @@ The problem was proposed by Rossmann  company at Kaggle plataform where the sale
   <li>Assortment</li>
   <li>State holiday</li>
 </ol>
+
+<h1>Data preparation</h1>
+
+<p>Data preparation is a step when   </p>
