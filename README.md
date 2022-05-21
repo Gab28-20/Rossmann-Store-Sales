@@ -35,4 +35,5 @@ The problem was proposed by Rossmann  company at Kaggle plataform where the sale
 
 <h1>Data preparation</h1>
 
-<p>Data preparation is a step when   </p>
+<p>Why Data preparation is important?</p>
+<p>The learning of the most Machine Learning's algorithms is easier with numeric datas and in the same scale. Because of it, the data preparation is a step where will be done all process to transform categoric datas in numeric and to have all in the same scale.</p>
